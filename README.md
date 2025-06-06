@@ -46,7 +46,7 @@ WebPenTest Framework is an automated penetration testing tool that follows indus
 # Download the framework files
 # - webpentest.py (main framework)
 # - requirements.txt (Python dependencies)
-# - install_tools.sh (tool installer)
+# -install_tools.sh (tool installer)
 ```
 
 ### 2. Run the Installer
